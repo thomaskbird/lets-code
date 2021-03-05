@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/thomasbird1984/lets-code/issues"
   },
-  "homepage": "https://github.com/thomasbird1984/lets-code#readme"
+  "homepage": "https://github.com/thomasbird1984/lets-code#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2"
+  }
 }
