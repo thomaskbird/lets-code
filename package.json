@@ -1,0 +1,32 @@
+{
+  "name": "lets-code",
+  "version": "1.0.0",
+  "description": "A collection of readme files that help a new coder start their journey into the world of development.",
+  "main": "na",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasbird1984/lets-code.git"
+  },
+  "keywords": [
+    "tutorial",
+    "lets",
+    "code",
+    "get",
+    "started",
+    "i",
+    "want",
+    "to",
+    "be",
+    "a",
+    "programmer"
+  ],
+  "author": "Thomas Bird <Thomas.Bird1984@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomasbird1984/lets-code/issues"
+  },
+  "homepage": "https://github.com/thomasbird1984/lets-code#readme"
+}
