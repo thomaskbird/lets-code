@@ -12,6 +12,3 @@
 	- Frontend
 	- Backend
 - Interviews
-
-
-[comment]: <> (Link format [link](other-directory/README.md#section))
