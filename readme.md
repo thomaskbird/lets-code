@@ -1,6 +1,6 @@
 # Getting started
 
-- The world wide web
+- [The world wide web](the-world-wide-web.md)
 - Development lifecycle
 - Html
 - CSS
@@ -12,3 +12,6 @@
 	- Frontend
 	- Backend
 - Interviews
+
+
+[comment]: <> (Link format [link](other-directory/README.md#section))
