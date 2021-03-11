@@ -1,6 +1,6 @@
 # Getting started
 
-- [The world wide web](the-world-wide-web.md)
+- [The world wide web](general/the-world-wide-web.md)
 - Development lifecycle
 - Html
 - CSS
@@ -12,3 +12,7 @@
 	- Frontend
 	- Backend
 - Interviews
+
+## Resources:
+- [Beginner tutorials & resources](just-getting-started-articles.md)
+- [More Advanced Tutorials & Resources](further-reading.md)

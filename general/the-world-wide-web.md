@@ -13,4 +13,4 @@ What does this really mean? Well, we all have or know what laptops and desktops 
 
 
 [comment]: <> (Image assets)
-[1]: /assets/img/intro-to-the-web.jpg
+[1]: ../assets/img/intro-to-the-web.jpg
