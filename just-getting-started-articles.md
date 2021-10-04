@@ -2,6 +2,8 @@
 
 This is a collection of good resources to help get you started.
 
+- [The Basics](https://github.com/thomaskbird/basic-frontend-tutorial/blob/master/basics.md)
+
 ## HTML
 - [W3 Schools - HTML](https://www.w3schools.com/html/default.asp)
 - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)

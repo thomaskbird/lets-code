@@ -3,15 +3,39 @@
 - [The world wide web](general/the-world-wide-web.md)
 - Development lifecycle
 - Html
+	- [Basics of HTML & CSS](./categories/html/basics.md)
 - CSS
 - Javascript
+  - [Javascript](https://www.javascript.com/)
+  - [MDN Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [ES6 (ECMA Script 6)](http://es6-features.org/#Constants)
 - PHP
+  - [Introduction](https://www.php.net/manual/en/introduction.php)
+  - [Simple tutorial](https://www.php.net/manual/en/tutorial.php)
+  - [Language Reference](https://www.php.net/manual/en/langref.php)
 - API's
+  - [REST API](https://www.sitepoint.com/rest-api/)
+  - [Building a PHP restful api](https://codeofaninja.com/2017/02/create-simple-rest-api-in-php.html)
+  - [Building a simple restful api](https://code.tutsplus.com/tutorials/how-to-build-a-simple-rest-api-in-php--cms-37000)
 - Databases
+  - [What is a database?](https://www.oracle.com/database/what-is-database/)
+  - [Types of databases](https://www.tutorialspoint.com/Types-of-databases)
 - Frameworks
-	- Frontend
-	- Backend
+  - Frontend
+    - React
+	  - [Reactjs](https://reactjs.org/docs/getting-started.html)
+    - Angular
+	  - [Angular](https://angular.io/)
+    - Vuejs
+	  - [Vuejs](https://vuejs.org/)
+  - Backend
+	- PHP
+	  - [Laravel](https://laravel.com/docs/8.x)
+	  - [Symfony](https://symfony.com/doc/current/index.html)
+	  - [Wordpress](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
 - Interviews
+- Tutorials
+	- [Music site](assets/tutorials/music-site/tutorial.md)
 
 ## Resources:
 - [Beginner tutorials & resources](just-getting-started-articles.md)
